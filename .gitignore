@@ -103,5 +103,5 @@ dist
 # TernJS port file
 .tern-port
 
-.parcel-chache/*
+.parcel-cache
 .DS_STORE
